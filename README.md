@@ -15,7 +15,7 @@ allprojects {
 2、 Add the dependency  
 ```
 dependencies {
-	        implementation 'com.github.luchongbin:MultiThreadBrokenPoinDownload:V1.0.0'
+	        implementation 'com.github.luchongbin:MultiThreadBrokenPoinDownload:v1.0.0'
 	}
 ```
 3、在Manifest中添加需要的权限  
