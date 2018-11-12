@@ -1,5 +1,7 @@
 # MultiThreadDownload
 多线程 断点续传 并支持 http和https好用的下载框架  
+## 先来个动态效果图  
+![效果图](https://github.com/luchongbin/MultiThreadBrokenPoinDownload/blob/master/gif/gif.gif)
 ## 使用前的准备
 1、 Add the JitPack repository to your build file
 ```
